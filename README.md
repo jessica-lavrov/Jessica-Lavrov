@@ -96,3 +96,5 @@ Hoi, ik ben Jessica. Ik schrijf, bouw, test en schaaf ideeën bij tot ze kloppen
 ## 📄 License
 
 Content © Jessica Lavrov. Feel free to quote brief excerpts with attribution and a link back to this README or [jessicalavrov.com](https://jessicalavrov.com)
+
+<a rel="me" href="https://mastodon.social/@jessica_lavrov">Mastodon</a>
