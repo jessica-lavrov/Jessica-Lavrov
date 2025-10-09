@@ -63,6 +63,8 @@ I love building things that feel smooth and human. If you’re working on a proj
 **Things that keep me busy and happy:**  
 👗 fashion • 💻 IT • 🤖 AI • 📊 Austrian economics • 🎬 films • 🎾 tennis • 🏌️ golf • 🐠 snorkeling • 📚 reading • ✍️ writing books • 📰 journalism • 🏛️ politics • 🚀 startups • ✈️ travel • 🗣️ languages • 🌍 cultures • 🥾 hiking • 🐶 animals (especially puppies)
 
+✅ Verified Python proficiency - https://credmark.ai/badge/CM-2510-GXHTCLW
+
 ---
 
 ## 🌍 About Me in Other Languages
